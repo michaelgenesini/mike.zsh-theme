@@ -1,4 +1,4 @@
-# ZSH Personal Them
+# ZSH Personal Theme
 
 Place the theme inside the themes folder
 
